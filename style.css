@@ -21,12 +21,12 @@
     padding: 24px;
 }
 
-.cabeçalho_imagem_item{
-    margin: 25px 25px 25px 25px;
-    font-size: 4px;
+.cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 13px;
 }
 
 .apresentaçao_trabalho{
-    background-color: linear-gradient(lemonchiffon, rgb(197, 67, 34);
+    background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
 }

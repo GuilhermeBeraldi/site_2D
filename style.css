@@ -26,10 +26,10 @@
 }
 
 .apresentaçao_trabalho{
-    background-image: linear-gradient(lemonchiffon, rgb(197, 67, 34);
+    background-color: linear-gradient(lemonchiffon, rgb(197, 67, 34);
     display: flex;
 }
 
 .arvore_imagem{
-    width: 1%;
+    width: 8%;
 }

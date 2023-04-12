@@ -18,6 +18,7 @@
 
 .cabeçalho_titulo{
     font-size: 34px;
+    padding: 24px;
 }
 
 .cabeçalho_imagem_item{
@@ -28,8 +29,4 @@
 .apresentaçao_trabalho{
     background-color: linear-gradient(lemonchiffon, rgb(197, 67, 34);
     display: flex;
-}
-
-.arvore_imagem{
-    width: 8%;
 }

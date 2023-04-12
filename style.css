@@ -20,6 +20,10 @@
 }
 
 .cabeçalho_imagem_item{
-    margin: 15px 0 15px 0;
+    margin: 25px 25px 25px 25px;
     font-size: 4px;
+}
+
+.apresentaçao_trabalho{
+    background-image: linear-gradient(lemonchiffon, rgb(197, 67, 34)
 }

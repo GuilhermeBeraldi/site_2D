@@ -29,6 +29,6 @@
 .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: baseline;
+    align-items: baseline;
 }

@@ -28,7 +28,8 @@
 
 .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
-    display: flex;
-    justify-content: baseline;
-    align-items: baseline;
+    display: list-item;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 48px 0;
 }

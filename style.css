@@ -30,6 +30,6 @@
     background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
     width: 300px;
-    justify-content: first baseline;
-    align-items: flex-start;
+    justify-content: space-around;
+    align-items: center;
 }

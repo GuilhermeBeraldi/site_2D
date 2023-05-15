@@ -17,19 +17,19 @@
 }
 
 .cabeçalho_titulo{
-    font-size: 34px;
+    font-size: 42px;
     padding: 24px;
 }
 
 .cabeçalho_lista_item{
     margin: 25px 0px 25px 0px;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
-    display: list-item;
-    justify-content: flex-start;
+    display: flex;
+    justify-content: center;
     align-items: center;
     padding: 48px 0;
 }

@@ -40,6 +40,15 @@
 .texto_apresentaçao_trabalho{
     font-size: 32px;
 }
+
 .imagem_arvore{
     width: 15%;
+}
+
+.supremos{
+    background-color: #dd371a;
+}
+
+.titulo_supremos{
+    font-size: 45px;
 }

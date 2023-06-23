@@ -17,7 +17,7 @@
 }
 
 .cabeçalho_titulo{
-    font-size: 50px;
+    font-size: 80px;
 }
 
 .cabeçalho_lista_item{
@@ -34,9 +34,12 @@
 }
 
 .titulo_apresentaçao_trabalho{
-    font-size: 30px;
+    font-size: 45px;
 }
 
+.texto_apresentaçao_trabalho{
+    font-size: 32px;
+}
 .imagem_arvore{
     width: 15%;
 }

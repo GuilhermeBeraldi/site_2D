@@ -52,3 +52,24 @@
 .titulo_melhores{
     font-size: 37px;
 }
+
+.corpo_desenvolvimento_planta{
+    background-color: #ee5006;
+}
+
+.desenvolvimento_planta{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.corpo_artigos{
+    background-color: #6e1212;
+    color: white;
+}
+
+.desenvolvimento_artigos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

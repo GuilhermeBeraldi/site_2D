@@ -13,7 +13,7 @@
 }
 
 .cabeçalho_imagem{
-    width: 12%;
+    width: 19%;
 }
 
 .cabeçalho_titulo{
@@ -34,21 +34,21 @@
 }
 
 .titulo_apresentaçao_trabalho{
-    font-size: 45px;
+    font-size: 37px;
 }
 
 .texto_apresentaçao_trabalho{
-    font-size: 32px;
+    font-size: 27px;
 }
 
 .imagem_arvore{
-    width: 15%;
+    width: 19%;
 }
 
-.supremos{
+.melhores{
     background-color: #dd371a;
 }
 
-.titulo_supremos{
-    font-size: 45px;
+.titulo_melhores{
+    font-size: 37px;
 }

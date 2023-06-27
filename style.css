@@ -73,3 +73,13 @@
     justify-content: space-around;
     align-items: center;
 }
+
+a {
+text-decoration: none;
+color: black;
+cursor: pointer;
+} 
+
+a :hover {
+    color: #dd371a;
+}

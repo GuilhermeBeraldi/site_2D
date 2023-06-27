@@ -74,12 +74,12 @@
     align-items: center;
 }
 
-.stylea {
+a {
 text-decoration: none;
 color: black;
 cursor: pointer;
 } 
 
-.stylea :hover {
+a :hover {
     color: #dd371a;
 }

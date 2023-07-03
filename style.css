@@ -57,6 +57,10 @@
     background-color: #d42405;
 }
 
+.desenvolvimento_planta_geral{
+    margin: 10px 10px;
+}
+
 .desenvolvimento_planta{
     display: flex;
     justify-content: space-around;

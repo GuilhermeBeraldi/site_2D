@@ -85,3 +85,14 @@
 .artigos_img{
     width: 30%;
 }
+
+.rodape{
+    background-color: #6e1212;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.imagens_rodape{
+    width: 8%;
+}
